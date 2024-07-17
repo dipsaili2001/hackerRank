@@ -1,0 +1,15 @@
+{
+  "name": "3-hackerrank-code-submission-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "codes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^18.0.5"
+  }
+}
